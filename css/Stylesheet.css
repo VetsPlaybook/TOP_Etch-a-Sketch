@@ -1,0 +1,44 @@
+.size-color-container{
+	text-align: center;
+}
+
+.text-centered{
+	text-align: center;
+}
+
+.container{
+	margin: auto;
+	border: solid;
+	height:224px;
+	width: 224px;
+}
+
+.boxes{
+	border: solid;
+	color: white;
+	background-color: white;
+	height: 10px;
+	width: 10px;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+
+.boxes2{
+	border: solid;
+	color: black;
+	background-color: black;
+	height: 10px;
+	width: 10px;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+
+.container2{
+	margin: auto;
+	border: solid;
+	color: black;
+	height:224px;
+	width: 224px;
+}
